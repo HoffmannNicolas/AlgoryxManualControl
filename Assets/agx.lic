@@ -1,0 +1,15 @@
+Key {
+  User         "Nicolas Hoffmann"
+  Contact      "nicolas.hoffmann@telecom-sudparis.eu"
+  EndDate      "2021-10-31"
+  HwKey        "478D48755EEF6C78E6A7AFF1C8EE620E"
+  Modules      "AgX,AgX-Cable,AgX-CableDamage,AgX-DriveTrain,AgX-Granular,AgX-Hydraulics,AgX-Hydrodynamics,AgX-Particles,AgX-Simulink,AgX-Terrain,AgX-Tires,AgX-Tracks,AgX-WireLink,AgX-Wires"
+  Version      "2"
+  Info         "AGX Dynamics For Unity"
+  Url          ""
+  Id1          ""
+  Id2          "EndOfUpdate \"2021-10-31\""
+  Serial       ""
+
+  License      "MFQCKBx05EoIlrwQglFjCYItV34kdo75RLiwuBJMGmDU8czknOy7LGabA9ICKDOyux5ETsyxJN6PK+jec6YlIYUNTJNCb6NtlG90xpi8KaOwf2nND2o="
+}
